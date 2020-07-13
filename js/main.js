@@ -18,4 +18,4 @@ let ans_1 = prompt('Один из последних просмотренных 
    personalMovieDB.movies[ans_1] = ans_2;
    personalMovieDB.movies[ans_3] = ans_4;
 
-    console.log(personalMovieDB.movies);
+   console.log(personalMovieDB.movies);
